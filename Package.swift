@@ -23,7 +23,7 @@ let package = Package(
 		// Targets can depend on other targets in this package and products from dependencies.
 		.binaryTarget(
 			name: "tta-cpp",
-			url: "https://github.com/sbooth/tta-cpp-binary-xcframework/releases/download/0.1.1/tta-cpp.xcframework.zip",
-			checksum: "1bf0a698dd0f397d6ab2956cdbb8385d5c8f4bff9e708713c2b56d4dda422635"),
+			url: "https://github.com/sbooth/tta-cpp-binary-xcframework/releases/download/0.1.2/tta-cpp.xcframework.zip",
+			checksum: "dab99a48bbf4e6301bae0fc7637261bc88f65ad4fdeaddd348e3539bd18920bd"),
 	]
 )
